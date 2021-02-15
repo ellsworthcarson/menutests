@@ -25,6 +25,7 @@ public class MenuTests {
 	@Test
 	public void testMenu() {
 		assertEquals(true,true);
+		assertEquals(true,true);
 	}
 	
 	
